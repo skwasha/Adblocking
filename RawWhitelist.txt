@@ -185,6 +185,7 @@ cdn.onesignal.com
 cdn.optimizely.com
 cdn.perfdrive.com
 cdn.rawgit.com
+cdn.remitano.com
 cdn.samsungcloudsolution.com
 cdn.shopifycloud.com
 cdn.sstatic.net
