@@ -91,6 +91,7 @@ api.getpocket.com
 api.ipify.org
 api.medium.com
 api.pluto.tv
+api.punchh.com
 api.sbs.com.au
 api.termius.com
 apis.google.com
