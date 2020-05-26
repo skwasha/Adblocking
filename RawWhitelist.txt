@@ -106,6 +106,7 @@ appengine.google.com
 apple.com
 appleid.apple.com
 apps.skype.com
+app.vsaex.visualstudio.com
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
 appsflyer.com
@@ -193,6 +194,7 @@ cdn.syndication.twimg.com
 cdn.ttgtmedia.com
 cdn.vidible.tv
 cdn.voscast.com
+cdn.vsassets.io
 cdn.w3schools.com
 cdn.whatsapp.net
 cdn1.digitaltrends.com
@@ -952,7 +954,9 @@ videocdn-sbs.akamaized.net
 videos.vidible.tv
 vidible.tv
 vimeo.com
+visualstudio.microsoft.com
 vodafoneindia.tt.omtrdc.net
+vortex.data.microsoft.com
 w1.web.whatsapp.com
 w2.web.whatsapp.com
 w3.web.whatsapp.com
