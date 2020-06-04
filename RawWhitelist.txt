@@ -185,6 +185,7 @@ cdn.onenote.net
 cdn.onesignal.com
 cdn.optimizely.com
 cdn.perfdrive.com
+cdn.punchh.com
 cdn.rawgit.com
 cdn.remitano.com
 cdn.samsungcloudsolution.com
@@ -468,6 +469,7 @@ icloud.com
 icq.com
 id.google.co.in
 id.google.com
+iframe.punchh.com
 image.elephantjournal.com
 image.ibb.co
 images.dmca.com
