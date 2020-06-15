@@ -78,6 +78,7 @@ alluremedia.com.au
 amazonaws.com
 amd.cdn.turner.com
 amzn.to
+analytics.google.com
 analytics.twitter.com
 android.clients.google.com
 angel.co
