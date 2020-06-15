@@ -80,6 +80,7 @@ amd.cdn.turner.com
 amzn.to
 analytics.google.com
 www.googletagmanager.com
+www.google-analytics.com
 analytics.twitter.com
 android.clients.google.com
 angel.co
