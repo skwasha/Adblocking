@@ -1,3 +1,19 @@
+# Added by me
+
+analytics.google.com
+www.googletagmanager.com
+www.google-analytics.com
+iframe.punchh.com
+cdn,punchh.com
+api.punchh.com
+app.vsaex.visualstudio.com
+cdn.vsassets.io
+visualstudio.microsoft.com
+vortex.data.microsoft.com
+amzn.to
+
+
+
 # Contributed by PracticalChip
 # Project home page https://github.com/PracticalChip/Adblocking
 
