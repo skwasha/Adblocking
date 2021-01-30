@@ -11,6 +11,7 @@ cdn.vsassets.io
 visualstudio.microsoft.com
 vortex.data.microsoft.com
 amzn.to
+tapfiliate.com
 
 
 
