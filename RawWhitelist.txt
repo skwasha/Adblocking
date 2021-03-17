@@ -17,6 +17,17 @@ geolocation.onetrust.com
 tags.tiqcdn.com
 s0.2mdn.net
 o289042.ingest.sentry.io
+tv.rlcdn.com
+partnerad.l.doubleclick.net
+c.amazon-adsystem.com
+c.aaxads.com
+(.|)conviva.com$
+cbsi.com.ssl.sc.omtrdc.net
+cbsinteractive.hb.omtrdc.net
+saa.cbsi.com
+pubads.g.doubleclick.net
+ads.play.cbsi.video
+
 
 # Contributed by PracticalChip
 # Project home page https://github.com/PracticalChip/Adblocking
