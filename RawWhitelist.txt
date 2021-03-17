@@ -12,8 +12,11 @@ visualstudio.microsoft.com
 vortex.data.microsoft.com
 amzn.to
 tapfiliate.com
-
-
+# Paramount plus
+geolocation.onetrust.com
+tags.tiqcdn.com
+s0.2mdn.net
+o289042.ingest.sentry.io
 
 # Contributed by PracticalChip
 # Project home page https://github.com/PracticalChip/Adblocking
