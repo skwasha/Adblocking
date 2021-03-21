@@ -27,7 +27,9 @@ cbsinteractive.hb.omtrdc.net
 saa.cbsi.com
 pubads.g.doubleclick.net
 ads.play.cbsi.video
-
+# For Starz
+cdn-pci.optimizely.com
+pixel-a.basis.net
 
 # Contributed by PracticalChip
 # Project home page https://github.com/PracticalChip/Adblocking
